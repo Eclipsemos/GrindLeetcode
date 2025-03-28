@@ -1,4 +1,3 @@
-// Nick Ye @UIUC CS 2025'
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
